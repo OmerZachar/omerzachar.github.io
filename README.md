@@ -1,3 +1,7 @@
+title: Welcome to my WORLD!
+show_downloads: false
+theme: green-theme-architect
+
 - 👋 Hi, I’m @OmerZachar
 - 👀 I’m interested in Sailing and Biology
 - 🌱 I’m currently learning MSc in life science in Weizmann institute for Science
