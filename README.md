@@ -1,12 +1,5 @@
 - 👋 Hi, I’m @OmerZachar
 - 👀 I’m interested in Sailing and Biology
 - 🌱 I’m currently learning MSc in life science in Weizmann institute for Science
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-OmerZachar/OmerZachar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![image](https://github.com/OmerZachar/OZ-demo.github.io/assets/166693060/af678ece-fb2f-4da8-b62f-58d5e63b6fa6)
