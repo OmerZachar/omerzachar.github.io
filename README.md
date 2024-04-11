@@ -1,6 +1,4 @@
-title: Welcome to my WORLD!
-show_downloads: false
-theme: green-theme-architect
+
 
 - 👋 Hi, I’m @OmerZachar
 - 👀 I’m interested in Sailing and Biology
