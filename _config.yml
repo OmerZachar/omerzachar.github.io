@@ -1,35 +1,75 @@
-title: "Omer Zachar"
-description: ""
-baseurl: ""
-url: ""
+ang: en-US
+title: Basically Basic
+email: dugan.nash@mailinator.com
+description: "Your new default Jekyll theme"
+baseurl: "/example"  # the subpath of your site, e.g. /blog
+url: ""  # the base hostname & protocol for your site, e.g. http://example.com
+author:
+  name: Dugan Nash
+  twitter: Towlette_Pettetucci
+  picture: /assets/images/johndoe.png
+twitter_username: Towlette_Pettetucci
+github_username: Towlette_Pettetucci
+logo: /assets/icons/basically-basic-logo-light.svg
+search: true
+search_full_content: true
+search_provider: algolia
+algolia:
+  application_id: QB6HVGBSBA
+  index_name: basically-basic
+  search_only_api_key: 9d5014e5bbc77372547bce778dfa5663
+  powered_by: # true (default), false
 
-exclude:
-  - demo/
-  - cvless.gemspec
-  - LICENSE
-  - README.md
-  - screenshot.png
+# Liquid
+liquid:
+  error_mode: strict
 
-plugins:
+# Build settings
+markdown: kramdown
+theme: jekyll-theme-basically-basic
+plugins: # previously gems
   - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate-v2
   - jekyll-seo-tag
   - jekyll-sitemap
-
-sass:
-  style: compressed
-  sourcemap: never
-
+  - jekyll-paginate
 feed:
   path: atom.xml
 
-autopages:
-  enabled: false
+# Pagination - https://jekyllrb.com/docs/pagination/
+paginate: 10
+paginate_path: /page:num/
 
-pagination:
-  enabled: true
-  per_page: 1
-  sort_reverse: true
-  permalink: /:num/
-  title: ":title &middot; Page :num"
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Collections
+collections:
+  recipes:
+    output: true
+    permalink: /:collection/:path/
+
+# Front Matter Defaults
+defaults:
+  # _posts
+  - scope:
+      path: "_posts"
+      type: posts
+    values:
+      layout: post
+      read_time: true
+  # _recipes
+  - scope:
+      path: "_recipes"
+      type: recipes
+    values:
+      layout: post
+      read_time: true
