@@ -1,6 +1,4 @@
-# Welcome to my WORLD
 
-👋 Hi, I’m @OmerZachar
 👀 I’m interested in Sailing and Biology
 🌱 I’m currently learning MSc in life science in Weizmann institute for Science
 
