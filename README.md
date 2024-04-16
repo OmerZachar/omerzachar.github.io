@@ -1,6 +1,7 @@
 # MSc student in Weizmann institute for science
 
-![image](omer)
+![Uploading image.png…]()
+
 
 [See me sailing](/sailing)
 
