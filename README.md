@@ -11,4 +11,5 @@
 - [instagram](https://www.instagram.com/justomerz/)
 - [Linkdin](https://www.linkedin.com/in/omer-zachar-9bb8246a/)
 - [My rotation lab in Weizmann](https://www.weizmann.ac.il/dept/irb/abramson/)
+- [My projects in WIS python 2024](https://github.com/OmerZachar/projects)
 
