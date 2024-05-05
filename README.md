@@ -13,3 +13,7 @@
 - [My rotation lab in Weizmann](https://www.weizmann.ac.il/dept/irb/abramson/)
 - [My projects in WIS python 2024](https://github.com/OmerZachar/projects)
 
+# My research goals
+1. Cancer immnuotherapy based on autoantibodies
+2. Deciphering the impact of Vitamin D on the immune system
+
